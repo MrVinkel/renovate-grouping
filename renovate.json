@@ -17,7 +17,7 @@
         "go",
         "golang"
       ],
-      "allowedVersions": "/^.*1\\.23(\\.5)+.*$/"
+      "allowedVersions": "/^.*1\\.23(\\.6)+.*$/"
     }
   ]
 }
