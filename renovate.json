@@ -12,6 +12,11 @@
       "rangeStrategy": "bump"
     },
     {
+      "matchDatasources": ["docker"],
+      "matchPackageNames": ["golang"],
+      "versioning": "loose"
+    },
+    {
       "groupName": "golang",
       "matchPackageNames": [
         "go",
