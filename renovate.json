@@ -13,7 +13,7 @@
         "go",
         "golang"
       ],
-      "replacementVersion": "1.23.5"
+      "replacementVersion": "1.23.6"
     }
   ]
 }
