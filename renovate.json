@@ -13,11 +13,7 @@
         "go",
         "golang"
       ],
-      "matchUpdateTypes": [
-        "patch",
-        "minor",
-        "major"
-      ]
+      "replacementVersion": "1.23.5"
     }
   ]
 }
